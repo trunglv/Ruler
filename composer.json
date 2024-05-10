@@ -1,6 +1,6 @@
 {
     "name"       : "trunglv/ruler",
-    "description": "The Hoa\\Ruler library.",
+    "description": "The Hoa\\Ruler library. [trunglv/Maintenance]",
     "type"       : "library",
     "keywords"   : ["library", "ruler"],
     "homepage"   : "https://hoa-project.net/",
