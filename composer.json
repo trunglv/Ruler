@@ -13,6 +13,10 @@
         {
             "name"    : "Hoa community",
             "homepage": "https://hoa-project.net/"
+        },
+        {
+            "name"    : "Trunglv",
+            "homepage": ""
         }
     ],
     "support": {
