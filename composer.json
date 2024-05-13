@@ -28,7 +28,7 @@
         "hoa-math-community/compiler"   : "~4.0",
         "hoa-math-community/consistency": "~3.0",
         "hoa-math-community/exception"  : "~3.0",
-        "hoa-math-community/file"       : "~1.0",
+        
         "hoa-math-community/protocol"   : "~2.0",
         "hoa-math-community/visitor"    : "~3.0"
     },
