@@ -27,10 +27,10 @@
         "php"            : ">=8.0.0",
         "trunglv/compiler"   : "~3.0",
         "trunglv/consistency": "~1.0",
-        "trunglv/exception"  : "~1.0",
-        "trunglv/file"       : "~1.0",
+        "hoa/exception"  : "~1.0",
+        "hoa/file"       : "~1.0",
         "trunglv/protocol"   : "~1.0",
-        "trunglv/visitor"    : "~2.0"
+        "hoa/visitor"    : "~2.0"
     },
     "require-dev": {
         "hoa/test": "~2.0"
