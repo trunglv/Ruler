@@ -33,7 +33,7 @@
         "hoa-math-community/visitor"    : "*"
     },
     "require-dev": {
-        "hoa/test": "~2.0"
+        
     },
     "autoload": {
         "psr-4": {
