@@ -25,12 +25,12 @@
     },
     "require": {
         "php"            : ">=8.0.0",
-        "hoa-math-community/compiler"   : "*",
-        "hoa-math-community/consistency": "*",
-        "hoa-math-community/exception"  : "~1.0",
+        "hoa-math-community/compiler"   : "~4.0",
+        "hoa-math-community/consistency": "~3.0",
+        "hoa-math-community/exception"  : "~3.0",
         "hoa-math-community/file"       : "~1.0",
-        "hoa-math-community/protocol"   : "*",
-        "hoa-math-community/visitor"    : "*"
+        "hoa-math-community/protocol"   : "~2.0",
+        "hoa-math-community/visitor"    : "~3.0"
     },
     "require-dev": {
         
