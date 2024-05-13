@@ -27,8 +27,8 @@
         "php"            : ">=8.0.0",
         "hoa-math-community/compiler"   : "*",
         "hoa-math-community/consistency": "*",
-        "hoa/exception"  : "~1.0",
-        "hoa/file"       : "~1.0",
+        "hoa-math-community/exception"  : "~1.0",
+        "hoa-math-community/file"       : "~1.0",
         "hoa-math-community/protocol"   : "*",
         "hoa-math-community/visitor"    : "*"
     },
