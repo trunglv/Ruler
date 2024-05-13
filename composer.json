@@ -25,11 +25,11 @@
     },
     "require": {
         "php"            : ">=8.0.0",
-        "trunglv/compiler"   : "~3.0",
-        "trunglv/consistency": "~1.0",
+        "trunglv/compiler"   : "dev-master",
+        "trunglv/consistency": "dev-master",
         "hoa/exception"  : "~1.0",
         "hoa/file"       : "~1.0",
-        "trunglv/protocol"   : "~1.0",
+        "trunglv/protocol"   : "dev-master",
         "hoa/visitor"    : "~2.0"
     },
     "require-dev": {
