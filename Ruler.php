@@ -191,10 +191,9 @@ class Ruler
     {
         if (null === static::$_compiler) {
             static::$_compiler = Compiler\Llk::load(
-                new File\Read('hoa://Library/Ruler/Grammar.pp')
+                new File\Read('file://'.__DIR__.'/Grammar.pp')
             );
         }
-
         return static::$_compiler;
     }
 }
